@@ -1,0 +1,9 @@
+#!/bin/bash
+
+VER="0.4.4"
+
+cd ../hans
+git archive --prefix "hans-$VER/" --format tar master | gzip > ../hans-deb/hans_$VER.orig.tar.gz
+cd ../hans-deb
+tar -xvf hans_$VER.orig.tar.gz
+cd hans-$VER

@@ -1,0 +1,9 @@
+Package: hans
+Version: 0.4.4-1
+Architecture: i386
+Maintainer: Vahid Mardani <vahid.mardani@gmail.com>
+Installed-Size: 146
+Section: misc
+Priority: optional
+Description: hans
+ Hans makes it possible to tunnel IPv4 through ICMP echo packets

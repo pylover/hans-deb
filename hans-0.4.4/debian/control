@@ -1,0 +1,12 @@
+Source: hans
+Maintainer: Vahid Mardani <vahid.mardani@gmail.com>
+Section: misc
+Priority: optional
+Standards-Version: 3.9.2
+Build-Depends: debhelper (>= 9), build-essential
+
+Package: hans
+Architecture: any
+Depends: 
+Description: hans
+ Hans makes it possible to tunnel IPv4 through ICMP echo packets
