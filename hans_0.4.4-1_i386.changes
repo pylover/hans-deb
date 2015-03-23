@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Sat, 21 Mar 2015 21:13:14 +0330
+Source: hans
+Binary: hans
+Architecture: source i386
+Version: 0.4.4-1
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Vahid Mardani <vahid.mardani@gmail.com>
+Changed-By: Vahid Mardani <vahid.mardani@gmail.com>
+Description: 
+ hans       - hans
+Changes: 
+ hans (0.4.4-1) UNRELEASED; urgency=medium
+ .
+   * Initial release. (Closes: #XXXXXX)
+Checksums-Sha1: 
+ bb274968539ddbf5a9a1c417aa32920ec5022214 754 hans_0.4.4-1.dsc
+ b172c655b73fc2e41e753f794ef9813bed9632a1 34106 hans_0.4.4.orig.tar.gz
+ 9062786eae345e63ba2e454d5c69938856638a7e 737 hans_0.4.4-1.debian.tar.gz
+ 88bc5588e888dc853b15d48932686eb8c18606e0 31138 hans_0.4.4-1_i386.deb
+Checksums-Sha256: 
+ e82024d6e28c35473658632f3ee14edc73368bd6e566fb643c803777f3346b69 754 hans_0.4.4-1.dsc
+ 447462df7464b4247edd556189b0a72f44b8e39c34bd8e23a824b8c22502903b 34106 hans_0.4.4.orig.tar.gz
+ 0c22896c9b4f3f28ead4bfb8daa9334927f883751a03dec0424699a28327a066 737 hans_0.4.4-1.debian.tar.gz
+ 7d7ab7b7c78fe78421909156813231e36708f19a3806e966cb85da7e7cca4cf7 31138 hans_0.4.4-1_i386.deb
+Files: 
+ 940fc5d76788f3d55bdacf4a7899249f 754 misc optional hans_0.4.4-1.dsc
+ 0e173efb531d345cd06b77f19c0b2e63 34106 misc optional hans_0.4.4.orig.tar.gz
+ acf65f90bb050dd8d643f41c457797a3 737 misc optional hans_0.4.4-1.debian.tar.gz
+ f55d6ad429133e95c8d71dae12a0e05e 31138 misc optional hans_0.4.4-1_i386.deb
