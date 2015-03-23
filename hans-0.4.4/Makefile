@@ -71,3 +71,6 @@ build/tunemu.o: src/tunemu.h src/tunemu.c
 install: all
 	install hans $(DESTDIR)$(BINDIR)
 
+uninstall:
+	-rm $(DESTDIR)$(BINDIR)/hans
+    

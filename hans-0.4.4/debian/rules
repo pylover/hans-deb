@@ -3,4 +3,4 @@
 	dh $@
 
 override_dh_auto_install:
-	$(MAKE) DESTDIR=$$(pwd)/debian/hans prefix=/usr install
+	$(MAKE) DESTDIR=$$(pwd)/debian/hans PREFIX=/usr/local install
